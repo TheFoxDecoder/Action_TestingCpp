@@ -1,7 +1,6 @@
 name: CMake Build ACTION
 
-on: [push, pull_request]
-
+on: [pull_request]
 env:
   CMAKE_VERSION: 3.21.1
   NINJA_VERSION: 1.10.2
