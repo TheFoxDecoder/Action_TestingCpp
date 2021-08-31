@@ -3,7 +3,7 @@ project(action_c)
 
 add_executable(main 
     main.cpp
-    i_o_Benchmarks.hpp)
+    i_o_Benchmarks.cpp)
 
 install(TARGETS main)
 
