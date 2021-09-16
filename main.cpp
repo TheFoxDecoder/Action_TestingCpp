@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 void fibbancchi(int a){
 	for(int i=0;i<a;++i){
 		
